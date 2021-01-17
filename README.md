@@ -6,9 +6,9 @@ Criei esta ferramenta para auxiliar o gerenciamento de servidores no discord, e 
 
 <h3> Funções Atuais </h3>
 
-<b>- Soma de números em vetor! </b>
-<b>- Vericar Latência entre o bot e os servidores do Discord! </b>
-<b>- Tocar música na sala em que você está! </b>
+<p><b>- Soma de números em vetor! </b></p>
+<p><b>- Vericar Latência entre o bot e os servidores do Discord! </b></p>
+<p><b>- Tocar música na sala em que você está! </b></p>
 
 Para quaisquer dúvidas, favor entrar em contato!
 
