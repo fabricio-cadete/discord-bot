@@ -12,4 +12,4 @@ Criei esta ferramenta para auxiliar o gerenciamento de servidores no discord, e 
 
 Para quaisquer dúvidas, favor entrar em contato!
 
-Criado e desenvolvido por Fabrício Antonio
+Criado e desenvolvido por Fabrício Antonio.
